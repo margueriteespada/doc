@@ -1,2 +1,2 @@
-# vmap_doc
+# vMapDoc
 Documentation du module vmap de Veremes
